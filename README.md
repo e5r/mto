@@ -1,4 +1,4 @@
 Message Token Orchestrator
 ==========================
 
-![]("Message Token Orchestrator.png")
+![](Message_Token_Orchestrator.png)
